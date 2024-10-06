@@ -1,1 +1,1 @@
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/fizetta/sem/README.md.yml?branch=master)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/fizetta/sem/main.yml?branch=master)

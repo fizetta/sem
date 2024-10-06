@@ -1,1 +1,1 @@
-This is a test
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/fizetta/sem/README.md.yml?branch=master)
